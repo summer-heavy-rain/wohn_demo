@@ -1,0 +1,40 @@
+# Build directory
+build/
+
+# IDE directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python virtual environments
+venv/
+env/
+
+# Cache directories
+.cache/
+
+# Binary output files
+*.bin
+*.elf
+*.map
+
+# Debug files
+*.gdbinit
+
+# Temporary files
+*.tmp
+*.temp
+
+# Configuration files with local settings
+config.env
