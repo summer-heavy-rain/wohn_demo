@@ -7,6 +7,7 @@ build/
 *.swp
 *.swo
 *~
+.devcontainer/
 
 # OS generated files
 .DS_Store
@@ -38,3 +39,4 @@ env/
 
 # Configuration files with local settings
 config.env
+
